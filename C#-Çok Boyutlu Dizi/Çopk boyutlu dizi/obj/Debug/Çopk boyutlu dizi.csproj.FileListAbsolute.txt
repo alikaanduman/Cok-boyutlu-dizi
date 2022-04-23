@@ -1,0 +1,45 @@
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.pdb
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Form1.resources
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+C:\Users\Ogrenci1\Desktop\alikaandman\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.pdb
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csprojResolveAssemblyReference.cache
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Form1.resources
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Properties.Resources.resources
+E:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csproj.GenerateResource.Cache
+D:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+D:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+D:\ \Nesnel Tabanlı Programlama\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.pdb
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Form1.resources
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\Çopk boyutlu dizi\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csproj.GenerateResource.Cache
+E:\ \Nesnel Tabanlı Programlama\100 LÜK NOT\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+E:\ \Nesnel Tabanlı Programlama\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+E:\ \Nesnel Tabanlı Programlama\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+D:\ \Nesnel Tabanlı Programlama\100 LÜK NOT\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+D:\ \Nesnel Tabanlı Programlama\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+D:\ \Nesnel Tabanlı Programlama\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe.config
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.exe
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.pdb
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.exe
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\bin\Debug\Çopk boyutlu dizi.pdb
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csprojResolveAssemblyReference.cache
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Form1.resources
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk_boyutlu_dizi.Properties.Resources.resources
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\100 LÜK NOT\Çopk boyutlu dizi\obj\Debug\Çopk boyutlu dizi.csproj.GenerateResource.Cache
